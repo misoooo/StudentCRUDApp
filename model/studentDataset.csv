@@ -1,0 +1,100 @@
+id,name,nationality,city,gender,age,gpa
+0,Kiana Lor,China,Suzhou,F,22,3
+1,Joshua Lonaker,United States of America,Santa Clarita,M,22,undefined
+2,Dakota Blanco,United States of America,Oakland,F,22,undefined
+3,Natasha Yarusso,United States of America,Castro Valley,F,20,undefined
+4,Brooke Cazares,Brazil,São José dos Campos,F,21,undefined
+5,Rochelle Johnson,United States of America,Indianapolis,F,21,undefined
+6,Joey Abreu,China,Shenyang,M,22,undefined
+7,Preston Suarez,Brazil,São Paulo,M,22,undefined
+8,Lee Dong,Philippines,Manila,F,24,undefined
+9,Maa'iz al-Dia,Turkey,Istanbul,M,22,undefined
+10,Maja Nicholson,United States of America,Dallas,F,23,undefined
+11,Sasha Jansen,United States of America,Chicago,F,21,undefined
+12,Alexander Sherman,United States of America,Omaha,M,20,undefined
+13,Edgar Sanchez,Mexico,Tijuana,M,23,undefined
+14,Kolbi Strunk,United States of America,Mission Viejo,M,21,undefined
+15,Brittany Sath,Japan,Tokyo,F,21,undefined
+16,Meggan Smith,United States of America,Los Angeles,F,21,undefined
+17,Ericka Arreola,Mexico,Mexico,F,23,undefined
+18,David Pulc,Canada,Toronto,M,24,undefined
+19,Kyle Luckey,United States of America,Moreno Valley,M,23,undefined
+20,Rojesh Her,Japan,Tokyo,M,22,undefined
+21,David Weber,China,Peking,M,20,undefined
+22,Rachel Jambor,United States of America,Chicago,F,22,undefined
+24,Sila Nguyen,China,Hebi,M,23,undefined
+25,Samantha Hicks,United States of America,Santa Barbara,F,22,undefined
+26,Angela Harding,United States of America,Manteca,F,22,undefined
+27,Brandon Barbour,United States of America,South Hill,M,21,undefined
+28,Reilly Wagar,United States of America,Modesto,F,23,undefined
+29,Victoria Ibarra,Dominican Republic,Santo Domingo,F,22,undefined
+30,Dakota Wirth,United States of America,Sacramento,F,22,undefined
+31,Lauren,France,Paris,male,31,2
+32,Michael Benson,United States of America,Phoenix,M,21,undefined
+33,Sean Rozga,United States of America,Los Angeles,M,21,undefined
+34,Cody Vermeylen,United States of America,Detroit,M,23,undefined
+35,Kinaana al-Jamail,India,Kanpur,F,22,undefined
+37,Katrina Saito,Japan,Tokyo,F,22,undefined
+38,Joshua Galloway,United States of America,New York,M,24,undefined
+39,Aylin Mendoza,Mexico,Mexico,F,22,undefined
+40,Sharon Fyfe,United States of America,Los Angeles,F,22,undefined
+41,Afnaan el-Mohammed,India,New Delhi,F,22,undefined
+42,Jesse Williams,Russian Federation,Moscow,F,21,undefined
+43,Kenny Fukushima,Japan,Tokyo,M,22,undefined
+44,Tawnie Glaisher,United States of America,Fremont,F,24,undefined
+45,Britany Stevens,United States of America,Lafayette,F,23,undefined
+46,Alan Trinh,Japan,Tokyo,M,20,undefined
+47,Zoe Kern,United States of America,West Jordan,F,22,undefined
+48,Sidney Beavers,United States of America,Los Angeles,M,23,undefined
+49,Miriam Aguilar,Mexico,Mexicali,F,22,undefined
+50,Issac Mata,Mexico,Tehuacán,M,23,undefined
+51,Hannah Uren,United States of America,Los Angeles,F,22,undefined
+52,Zachary Bradley,Spain,Madrid,M,21,undefined
+53,Moira Buttitto,United States of America,Los Angeles,F,23,undefined
+54,Nicole Humpal,United States of America,Walnut Creek,F,22,undefined
+55,Georgia Williams,United States of America,Memphis,F,23,undefined
+57,Amanda Tatum,United States of America,San Diego,F,22,undefined
+58,Cameron Steinberg,United States of America,Los Angeles,M,20,undefined
+59,Shuraih el-Karim,Pakistan,Khalabat,M,22,undefined
+60,Katelyn Sharp,United States of America,Los Angeles,F,20,undefined
+61,Colin Lemont,China,Shanghai,M,21,undefined
+62,Donald Nevins,United States of America,San Jose,M,23,undefined
+63,Macaela Kadillak,United States of America,Los Angeles,F,20,undefined
+64,Brittany Pratt,United States of America,San Diego,F,22,undefined
+65,Cameron Hancock,Poland,Warsaw,M,21,undefined
+66,William Grevious,United States of America,Stockton,M,22,undefined
+67,Lindsey Job,United States of America,Los Angeles,F,23,undefined
+68,Gabrielle Smith,Korea (Republic of),Seoul,F,23,undefined
+69,Allison Brink-Lomme,United States of America,Portland,F,24,undefined
+70,Sheyenne Delgado-Manzanares,Cuba,Manzanillo,F,21,undefined
+71,Joseph Smith,United States of America,Sacramento,M,21,undefined
+72,Fikra al-Mina,India,Bombay,F,21,undefined
+73,Aurelia Davis Ingham,United States of America,Roseville,F,22,undefined
+74,Taylor Elstun,United States of America,San Diego,F,21,undefined
+75,Joseph Snider,United States of America,Los Angeles,M,21,undefined
+77,Ibrahim al-Sawaya,Tunisia,Manzil Tamim,M,23,undefined
+78,Alexandra Levy,United States of America,Los Angeles,F,23,undefined
+79,Macie Nguyen,Japan,Tokyo,F,23,undefined
+80,Sean Tegtman,United States of America,Kettering,M,25,undefined
+81,Casey Vanden Bos,United States of America,Los Angeles,M,22,undefined
+82,Staci Maes,Mexico,Mexico,F,23,undefined
+83,Luke Davey,United States of America,Los Angeles,M,26,undefined
+84,Harper Wheeler-Marques,United States of America,San Diego,F,23,undefined
+85,Sherleen Saravanan,Myanmar,Rangoon,F,22,undefined
+86,Myles Vaught,United States of America,Waukegan,M,21,undefined
+87,Juan Guerrero Camacho,Mexico,Mexico,M,21,undefined
+88,Lindsey Freund,United States of America,New York,F,20,undefined
+89,Savannah Clark,United States of America,Visalia,F,20,undefined
+90,Bradley Monsell,United States of America,New York,M,22,undefined
+91,Daisha Schmidt,United States of America,Boulder,F,22,undefined
+92,Airabella Koontz,United States of America,Dallas,F,22,undefined
+93,Hailey Malle,Russian Federation,Nizhniy Novgorod,F,22,undefined
+94,Devon Miranda,Colombia,Pereira,M,20,undefined
+95,Danielle Nguyen,Japan,Tokyo,F,23,undefined
+96,Mateo Cisneros,Brazil,Foz do Iguaçu,M,23,undefined
+97,William Pablo,Japan,Kashiwara,M,24,undefined
+98,Jason Hundsdorfer,United States of America,Los Angeles,M,20,undefined
+,,,,,,
+99,Naruto Uzumaki,japanese,Konoha Village,male,23,3
+99,Naruto Uzumaki,japanese,Konoha Village,male,32,2
+,,,,,,

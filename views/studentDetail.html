@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Details</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="search">
+        <input type="text" id="input-box" placeholder="Enter Student ID"> 
+        <span><button onclick="showData()" id="button-2">Search</button></span>
+    </div>
+
+    <div class="student-info" id="student-detail-table" style="display: none;">
+        <table class="student-detail">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Nationality</th>
+                    <th>City</th>
+                    <th>Gender</th>
+                    <th>Age</th>
+                    <th>GPA</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="student-id"></td>
+                    <td id="student-name"></td>
+                    <td id="student-nationality"></td>
+                    <td id="student-city"></td>
+                    <td id="student-gender"></td>
+                    <td id="student-age"></td>
+                    <td id="student-gpa"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <button id="btn2">Next</button>
+    <div id="delete-popup">
+        <p>Are you sure you want to delete?</p>
+        <button onclick="deleteStudent()">Yes</button>
+        <button onclick="closePopup()">No</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

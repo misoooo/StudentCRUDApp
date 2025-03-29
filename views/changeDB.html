@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modify Student Database</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="form-container">
+        <form action="#" class="form" id="student-form">
+            <div class="form-input">
+                <label for="id">ID</label>
+                <input type="number" id="id" placeholder="Enter ID">
+            </div>
+            <div class="form-input">
+                <label for="full-name">Full Name</label>
+                <input type="text" id="full-name" placeholder="Enter Full Name">
+            </div>
+            <div class="form-input">
+                <label for="nationality">Nationality</label>
+                <input type="text" id="nationality" placeholder="Enter Nationality">
+            </div>
+            <div class="form-input">
+                <label for="city">City</label>
+                <input type="text" id="city" placeholder="Enter City">
+            </div>
+            <div class="form-input">
+                <label for="gender">Gender</label>
+                <select id="gender">
+                    <option value="" disabled selected>Select Gender</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="form-input">
+                <label for="age">Age</label>
+                <input type="number" id="age" placeholder="Enter Age">
+            </div>
+            <div class="form-input">
+                <label for="gpa">GPA</label>
+                <input type="number" id="gpa" placeholder="Enter GPA">
+            </div>
+            <button type="submit" class="submit-btn" id="submit-button">Submit</button>
+        </form>
+    </div>    
+    <script src="script.js"></script>
+</body>
+</html>
