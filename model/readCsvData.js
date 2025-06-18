@@ -6,7 +6,7 @@ const csvFilePath = path.join(__dirname, "./studentDataset.csv");
 
 const readCSV = async() => {
     try {
-        const studentData = await fs.readFile(csvFilePath, "utf8"); //<<< why is it working with sync but not without it ???????? huhhhhhh
+        const studentData = await fs.readFile(csvFilePath, "utf8"); 
         // console.log("Raw CSV Data:\n", studentData);
         return getStudentData(studentData);
     } catch (err) {
